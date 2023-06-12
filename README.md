@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dinakar Pathakota
-- 👀 I’m interested in C ,Python.
+- 👀 I’m interested in C ,Java, Python.
 - 🌱 I’m currently learning Java
 - 📫 How to reach me : dinakara.pathakota@gmail.com
 
