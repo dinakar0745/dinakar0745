@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dinakar Pathakota
 - 👀 I’m interested in C ,Java, Python.
 - 🌱 I’m currently learning Java
-- 📫 How to reach me : dinakara.pathakota@gmail.com
+- 📫 How to reach me : dinakar.pathakota@gmail.com
 
 <!---
 ASH04DP/ASH04DP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
