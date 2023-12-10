@@ -10,7 +10,7 @@ Code at [CodeChef](https://www.codechef.com/users/klh_2210030004);,<br>
 <a href="https://twitter.com/dinakar0745" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.instagram.com/ash_dp_07/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
-&nbsp;
+&nbsp;<br>
 GitHub is my canvas, code is my art 🚀
 <!---
 ASH04DP/ASH04DP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
